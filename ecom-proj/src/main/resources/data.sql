@@ -1,0 +1,1 @@
+INSERT INTO product (name, desc, brand, price, category, release_date, available, quantity) values ('Tata Salt', 'Premium Quality', 'Tata', '20', 'Kitchen Utensils', '2026-07-14', 'true', '150')
